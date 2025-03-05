@@ -10,9 +10,9 @@
 
 ## 🚀 Skills
 - **Languages**: Python, C++
-- **Libraries/Frameworks**: TensorFlow, PyTorch, OpenCV, Scikit-learn
+- **Libraries/Frameworks**: PyTorch, OpenCV, Scikit-learn
 - **Tools**: Git, Docker, Jupyter, Linux
-- **Areas of Expertise**: Deep Learning, Computer Vision, GANs
+- **Areas of Expertise**: Deep Learning, Computer Vision, GANs, GenAI
 <!--
 ## 📂 Projects
 - 🛰️ [Satellite Imagery Analysis](#): Deep learning techniques for satellite data classification.
